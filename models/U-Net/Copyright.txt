@@ -1,0 +1,17 @@
+This software is based on the caffe framework. See:
+
+  http://caffe.berkeleyvision.org/
+
+It is derived from the branch of the fully convolutional network
+
+  https://github.com/longjon/caffe/tree/future
+
+Please see on both websites for details on the copyright for their code.
+
+The sample dataset is kindly provided by the organizers of the ISBI
+cell tracking challenge 2015 in the subdirectory "PhC-C2DH-U373". See
+
+http://www.codesolorzano.com/celltrackingchallenge/Cell_Tracking_Challenge/Datasets.html
+
+Copright of the images: Dr. Sanjay Kumar. Department of Bioengineering University of California at Berkeley. Berkeley CA (USA)
+

@@ -1,0 +1,17 @@
+Paper Title: SatStreaks: Towards Supervised Learning for Delineating Satellite Streaks from Astronomical Images
+Authors: Susrita Chatterjee, Prachi Kudeshia, Nikolaus Kollo, Muhammad Altaf Agowun, Jiju Poovvancheri, Yasushi Akiyama
+Accepted in Conference on Robots and Vision 2024
+
+
+
+
+BibTeX
+@inproceedings{
+chatterjee2024satstreaks,
+title={SatStreaks: Towards Supervised Learning for Delineating Satellite Streaks from Astronomical Images},
+author={Susrita Chatterjee and Prachi Kudeshia and Nikolaus Kollo and Muhammad Altaf Agowun and Jiju Poovvancheri and Yasushi Akiyama},
+booktitle={21st Conference on Robots and Vision},
+year={2024},
+url={https://openreview.net/forum?id=GtvkR1scwk}
+}
+
